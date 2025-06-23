@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Sitemap: https://himabindusingiri.github.io/techflatform-site/sitemap.xml
