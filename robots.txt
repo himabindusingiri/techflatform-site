@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /
 sitemap:https://himabindusingiri.github.io/techflatform-site/sitemap.xml
 
